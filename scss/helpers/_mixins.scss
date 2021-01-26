@@ -73,6 +73,7 @@
         font-size: 16px;
         font-weight: 600;
         line-height: 1;
+        margin-bottom: 12px;
        }
        span{
             color: #666666;
@@ -99,8 +100,11 @@
     }
 }
 @mixin section-padding{
-    padding-top: 130px;
-    padding-bottom: 130px;
+    padding: 50px 0;
+    @include tablet {
+        padding: 120px 0;
+
+    }
 }
 
 @mixin section-title {
@@ -123,11 +127,15 @@
 }
 @mixin section-title-2 {
     h2{
-        font-size: 52px;
+        font-size: 30px;
+        line-height: 42px;
         font-weight: 600;
         letter-spacing: -2px;
-        line-height: 60px;
         margin-bottom: 20px;
+        @include desktops {
+            font-size: 52px;
+            line-height: 60px;
+        }
     }
     p{
         width: 697px;

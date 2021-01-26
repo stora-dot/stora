@@ -1,32 +1,33 @@
 $('document').ready(function(){
 
-// Pricing toggle Functionality
-  $("[class*='btn--toggle']").on('change',function(e){
-      
-      
-      var getTarget = $(this).attr('data-tab-target'); 
-      var inpSelect = $(this).children().children('input[type="checkbox"]');
+     //======>  Pricing Toggle Functionality
 
-      if($(inpSelect).is(':checked')){
-          if($(getTarget).hasClass('monthly')){
-              $(getTarget).removeClass('monthly');
-              $(getTarget).addClass('yearly');
+    $("[class*='btn--toggle']").on('change',function(e){
         
-          }
-      }else{
-          // $(getTarget).removeClass('monthly');
-          if($(getTarget).hasClass('yearly')){
-              $(getTarget).removeClass('yearly');
-              $(getTarget).addClass('monthly');
         
-          }
-      }
-    
-      
-  })
+        var getTarget = $(this).attr('data-tab-target'); 
+        var inpSelect = $(this).children().children('input[type="checkbox"]');
+
+        if($(inpSelect).is(':checked')){
+            if($(getTarget).hasClass('monthly')){
+                $(getTarget).removeClass('monthly');
+                $(getTarget).addClass('yearly');
+          
+            }
+        }else{
+            // $(getTarget).removeClass('monthly');
+            if($(getTarget).hasClass('yearly')){
+                $(getTarget).removeClass('yearly');
+                $(getTarget).addClass('monthly');
+          
+            }
+        }      
+    })
+
+  
 })
 
-// Mobile Menu Activation
+//======>  Mobile Menu Activation
 $('.main-navigation').meanmenu({
     meanScreenWidth: "992",
     meanMenuContainer: '.mobile-menu',
