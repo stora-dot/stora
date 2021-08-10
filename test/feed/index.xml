@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Tue, 10 Aug 2021 13:00:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Aug 2021 14:07:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,101 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Project 4 &#8211; About Structure</title>
+		<link>./../project-4-about-structure/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 08 Aug 2021 14:06:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 1 Exploring rhythm]]></category>
+		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=166</guid>
+
+					<description><![CDATA[The goal of this final project, which comes before the first assignment, is to create a plan for&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this final project, which comes before the first assignment, is to create a plan for the assignment composition, which should last between 2 and 3 minutes and begin with the specified composition.</p>
+
+
+
+<p>One thing I noticed is that it is suggested that the plan begins with the structure before deciding on the content. However, when I look at Assignment 1, I find that it begins with a group of demons entering the scene. As a result, I&#8217;m reluctant to separate the idea from the structure. So I decided to start with the idea/story and then go on to the structure.</p>
+
+
+
+<h2 id="the-idea">The Idea</h2>
+
+
+
+<p>When I first read &#8220;Curtain Rises, enter a group of demons&#8221; at the start of assignment 1, I immediately thought of the devils that pop into your head from time to time. Particularly when you&#8217;re going to do something that makes you feel uneasy. For example, for me, it was when I began writing music in notation, which I had never done before. All of your demons begin to rush through your head in the form of doubts such as &#8220;will I be able to do this?&#8221; and &#8220;why did I even start this course?&#8221;</p>
+
+
+
+<p>For this piece, I decided to explore the battle between spirits (doubts, anxieties, self-censorship) and demons (confidence, tranquillity, wisdom) that happen inside your head when you&#8217;re about to do something uncomfortable.</p>
+
+
+
+<h2 id="the-structure">The Structure</h2>
+
+
+
+<p>Starting with the given Wild Dance composition, I opted to utilize the specified tempo (153 bpm) as the demons tempo since it conveys a sense of haste and chaos. By contrast, the angels will move at a slower pace, conveying a sense of tranquillity. </p>
+
+
+
+<p>As I previously stated, my composition will be about a clash in which demons arrive and attack, angels defend, demons counter-attack and the angels ultimately triumph. I want the audience to sense this conflict, which will be reflected in the speed and instrument shifts.</p>
+
+
+
+<figure class="wp-block-table is-style-regular cnvs-block-core-table-1628498574118"><table><thead><tr><th>Theme</th><th>Section</th><th>Duration / Tempo</th></tr></thead><tbody><tr><td>A &#8211; A horde of demons appear on stage, dancing around the angels and provoking them. The angels are standing calmly nearby.</td><td>Principal</td><td>~30 seconds at 153 bpm </td></tr><tr><td>B &#8211; The demons strike with hesitation, insecurity, and anxiety.</td><td>Principal</td><td>~40 seconds at 153 bpm</td></tr><tr><td>C- The angels continue to live in peace. They are composed, self-assured, and wise. They don&#8217;t desire war, so they demonstrate this by dancing slowly and peacefully.</td><td>Subsidiary</td><td>~40 seconds at 85 bpm</td></tr><tr><td>B&#8217;-The demons retaliate, but they&#8217;re growing nervous.</td><td>Reprise</td><td>~20 seconds at 153 bpm</td></tr><tr><td>C&#8217;-The angels grow in strength and distance themselves from the demons.</td><td>Closing</td><td>~20 seconds at 120 bpm</td></tr></tbody></table></figure>
+
+
+
+<h2 id="the-motifs">The motifs</h2>
+
+
+
+<p>I developed some themes for each section. The first one will serve as an introduction and the example is already delivered, which heavily uses the tambourine.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.02.39.png" alt="" class="wp-image-188" width="270" height="336" srcset="./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.02.39.png 500w, ./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.02.39-241x300.png 241w, ./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.02.39-300x373.png 300w" sizes="(max-width: 270px) 100vw, 270px" /></figure>
+
+
+
+<p>In the B section, I imagined the demons&#8217; strike to be powerful, but with a slight hesitation at the end.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.00.31.png" alt="" class="wp-image-189" width="277" height="346" srcset="./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.00.31.png 508w, ./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.00.31-240x300.png 240w, ./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.00.31-300x374.png 300w" sizes="(max-width: 277px) 100vw, 277px" /></figure>
+
+
+
+<p>The angels in the C portion are calm, assertive, and peaceful. It will contrast with the prior two motifs&#8217; warlike snare.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.01.45.png" alt="" class="wp-image-190" width="281" height="323" srcset="./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.01.45.png 514w, ./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.01.45-261x300.png 261w, ./../wp-content/uploads/2021/08/Screenshot-2021-08-10-at-15.01.45-300x344.png 300w" sizes="(max-width: 281px) 100vw, 281px" /></figure>
+
+
+
+<h2 id="the-instruments">The instruments</h2>
+
+
+
+<p>For the demons parts, I chose the given instruments (Bass Drum, Snare Drum, Tambourine, Cymbal) because I believe they convey the sense of urgency and aggression I want to portray. In addition to the Bass Drum, a rhythmic instrument, the angels will also use the Bongos, Cabasa, and Finger Cymbals.</p>
+
+
+
+<p>For simplicity, I retained four instruments for each part, and since I want it to be played by four musicians, they only have to switch between two instruments.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 3 &#8211; Three and more instruments</title>
 		<link>./../project-3-three-and-more-instruments/index.html</link>
 					<comments>./../project-3-three-and-more-instruments/index.html#respond</comments>
